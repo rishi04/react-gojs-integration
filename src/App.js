@@ -8,8 +8,7 @@ class App extends Component {
         return (
             <div className="App">
                 <header className="App-header">
-                    <img src={logo} className="App-logo" alt="logo" />
-                    <h1 className="App-title">react-gojs example in es6</h1>
+                    <h1 className="App-title">Gojs React integration</h1>
                 </header>
                 <MyDiagram />
             </div>
